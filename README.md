@@ -13,4 +13,5 @@ The provided code simulates a turn-based combat game between two players, Player
 9.	Finally, it prints the result of the game, indicating which player lost.
 The code also includes additional print statements to display the values of attack dice, defence dice, attack damage, and defence strength for each round, providing more insight into the combat mechanics.
 
+In the problem statement they mentioned that all attribute(health, strength, attack) values should be given positive integers.
 The unit test cases for the code is in word document you can refer that document.
